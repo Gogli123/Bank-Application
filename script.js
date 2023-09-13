@@ -5,7 +5,7 @@
 // BANKIST APP
 
 const account1 = {
-  owner: 'Beka Goglidze',
+  owner: 'Beka Goglidze', //username bk
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
   pin: 1111,
@@ -25,7 +25,7 @@ const account1 = {
 };
 
 const account2 = {
-  owner: 'Jessica Davis',
+  owner: 'Jessica Davis', //username jd
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
@@ -45,7 +45,7 @@ const account2 = {
 };
 
 const account3 = {
-  owner: 'Sandro Goglidze',
+  owner: 'Sandro Goglidze', //username sg
   movements: [5000, 3400, -150, -790, 3210, -1000.23, 8500.9, 30.5],
   interestRate: 1,
   pin: 1111,
